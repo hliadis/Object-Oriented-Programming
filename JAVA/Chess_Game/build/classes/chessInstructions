@@ -1,0 +1,20 @@
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+Chess Game Help Menu:
+
+Usage:
+- Commands (without quotes):
+
+  - ':s' : Save the current game.
+  - ':o': Open a saved game. 
+          You will be prompted to enter the filename from which to load the game
+  - ':x': Exit the game.
+  - ':h': Show help instructions.
+
+  - To move a piece, enter the source and destination locations (e.g., a2a4).
+    The first two characters are the starting position, and the last two characters are the ending position.
+    Moves follow the standard chess notation where each square on the board is represented by a letter (a-h) and a number (1-8)
+
+Enjoy playing chess!
+
+///////////////////////////////////////////////////////////////////////////////////////////////

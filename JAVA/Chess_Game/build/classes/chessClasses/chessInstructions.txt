@@ -1,0 +1,11 @@
+Welcome to the Chess Project!
+
+Usage:
+  - To move a piece, enter the source and destination locations (e.g., a2a4).
+  - Commands:
+      - 'save': Save the current game.
+      - 'open': Open a saved game.
+      - 'exit': Exit the game.
+      - 'help': Show help instructions.
+
+Enjoy playing chess!
